@@ -1,0 +1,195 @@
+// ====================================================================
+// BANGLADESH E-COMMERCE CUSTOMER INTELLIGENCE PLATFORM
+// Complete Production DAX Measure Library for Power BI
+// ====================================================================
+
+// ====================================================================
+// 1. CORE TRANSACTION & REVENUE MEASURES
+// ====================================================================
+
+Total Orders = 
+DISTINCTCOUNT(fact_orders[order_id])
+
+Delivered Orders = 
+CALCULATE(
+    [Total Orders],
+    fact_orders[order_status] = "Delivered"
+)
+
+Total Revenue = 
+SUMX(
+    FILTER(fact_orders, fact_orders[order_status] = "Delivered"),
+    fact_orders[total_amount]
+)
+
+Gross Product Sales = 
+SUM(fact_order_items[revenue])
+
+Total Wholesale Cost = 
+SUM(fact_order_items[cost])
+
+Gross Profit = 
+[Gross Product Sales] - [Total Wholesale Cost]
+
+Gross Profit Margin Pct = 
+DIVIDE([Gross Profit], [Gross Product Sales], 0) * 100
+
+Total Discounts Given = 
+SUM(fact_orders[discount_amount])
+
+Total Shipping Fees = 
+SUM(fact_orders[shipping_fee])
+
+Average Order Value (AOV) = 
+DIVIDE([Total Revenue], [Delivered Orders], 0)
+
+// ====================================================================
+// 2. CUSTOMER INTELLIGENCE & DEMOGRAPHICS
+// ====================================================================
+
+Total Customers = 
+DISTINCTCOUNT(dim_customers[customer_id])
+
+Active Purchasing Customers = 
+CALCULATE(
+    DISTINCTCOUNT(fact_orders[customer_id]),
+    fact_orders[order_status] = "Delivered"
+)
+
+Repeat Customers = 
+CALCULATE(
+    [Active Purchasing Customers],
+    FILTER(
+        VALUES(dim_customers[customer_id]),
+        CALCULATE([Delivered Orders]) >= 2
+    )
+)
+
+One-Time Customers = 
+CALCULATE(
+    [Active Purchasing Customers],
+    FILTER(
+        VALUES(dim_customers[customer_id]),
+        CALCULATE([Delivered Orders]) = 1
+    )
+)
+
+Repeat Purchase Rate Pct = 
+DIVIDE([Repeat Customers], [Active Purchasing Customers], 0) * 100
+
+Revenue Per Active Customer = 
+DIVIDE([Total Revenue], [Active Purchasing Customers], 0)
+
+Average Orders Per Customer = 
+DIVIDE([Delivered Orders], [Active Purchasing Customers], 0)
+
+// ====================================================================
+// 3. TIME INTELLIGENCE & MOM / YOY CALCULATIONS
+// ====================================================================
+
+Previous Month Revenue = 
+CALCULATE(
+    [Total Revenue],
+    DATEADD(dim_date[date], -1, MONTH)
+)
+
+MoM Revenue Growth = 
+[Total Revenue] - [Previous Month Revenue]
+
+MoM Revenue Growth Pct = 
+DIVIDE([MoM Revenue Growth], [Previous Month Revenue], 0) * 100
+
+Previous Year Revenue = 
+CALCULATE(
+    [Total Revenue],
+    SAMEPERIODLASTYEAR(dim_date[date])
+)
+
+YoY Revenue Growth Pct = 
+DIVIDE([Total Revenue] - [Previous Year Revenue], [Previous Year Revenue], 0) * 100
+
+Cumulative Running Revenue = 
+CALCULATE(
+    [Total Revenue],
+    FILTER(
+        ALLSELECTED(dim_date),
+        dim_date[date] <= MAX(dim_date[date])
+    )
+)
+
+Rolling 3-Month Moving Average Revenue = 
+AVERAGEX(
+    DATESINPERIOD(dim_date[date], MAX(dim_date[date]), -3, MONTH),
+    [Total Revenue]
+)
+
+// ====================================================================
+// 4. RETENTION, CHURN & COHORT MEASURES
+// ====================================================================
+
+Customer Last Order Date = 
+CALCULATE(
+    MAX(fact_orders[order_date]),
+    fact_orders[order_status] = "Delivered"
+)
+
+Customer Recency Days = 
+DATEDIFF(
+    [Customer Last Order Date],
+    MAX(dim_date[date]),
+    DAY
+)
+
+Is Churned Customer = 
+IF(
+    [Customer Recency Days] > 90,
+    1,
+    0
+)
+
+Total Churned Customers = 
+COUNTROWS(
+    FILTER(
+        VALUES(dim_customers[customer_id]),
+        [Is Churned Customer] = 1
+    )
+)
+
+Churn Rate Pct = 
+DIVIDE([Total Churned Customers], [Active Purchasing Customers], 0) * 100
+
+Retention Rate Pct = 
+100 - [Churn Rate Pct]
+
+High CLV High Risk Customers = 
+CALCULATE(
+    COUNTROWS(
+        FILTER(
+            VALUES(dim_customers[customer_id]),
+            [Is Churned Customer] = 1 && [Total Revenue] >= 10000
+        )
+    )
+)
+
+// ====================================================================
+// 5. CUSTOMER LIFETIME VALUE (CLV) & WHAT-IF DYNAMICS
+// ====================================================================
+
+Historical CLV = 
+DIVIDE([Gross Profit], [Active Purchasing Customers], 0)
+
+// Parameterized What-If Scenarios
+What-If Repeat Frequency Uplift Pct = 
+SELECTEDVALUE('WhatIf_Parameters'[Repeat_Uplift], 0.10)
+
+What-If Churn Reduction Pct = 
+SELECTEDVALUE('WhatIf_Parameters'[Churn_Reduction], 0.05)
+
+Simulated Revenue S1 (+Repeat) = 
+[Total Revenue] + ([Repeat Customers] * ([Average Orders Per Customer] - 1) * [What-If Repeat Frequency Uplift Pct] * [Average Order Value (AOV)])
+
+Simulated Profit S1 = 
+[Simulated Revenue S1 (+Repeat)] * DIVIDE([Gross Profit], [Total Revenue], 0)
+
+Simulated Profit S4 (-15% Discounts) = 
+[Gross Profit] + ([Total Discounts Given] * 0.15)

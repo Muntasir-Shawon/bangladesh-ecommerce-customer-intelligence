@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,brand,cost_price,selling_price
+1,Samsung Bluetooth Speakers Pro 769,Electronics,Bluetooth Speakers,Samsung,4528.38,5920.0
+2,Realme Power Banks Classic 152,Electronics,Power Banks,Realme,21715.64,27140.0
+3,Samsung Bluetooth Speakers Series 99,Electronics,Bluetooth Speakers,Samsung,1967.45,2330.0
+4,Lenovo Earbuds Pro 40,Electronics,Earbuds,Lenovo,1191.01,1540.0
+5,Realme Smartphones Classic 527,Electronics,Smartphones,Realme,12264.06,15540.0
+6,Walton Earbuds Series 213,Electronics,Earbuds,Walton,999.54,1310.0
+7,Microlab Bluetooth Speakers Prime 235,Electronics,Bluetooth Speakers,Microlab,34917.83,41630.0
+8,Baseus Laptops Pro 787,Electronics,Laptops,Baseus,2188.31,2600.0
+9,Lenovo Smartwatches Edition 294,Electronics,Smartwatches,Lenovo,3545.03,4390.0
+10,Realme Smartwatches Edition 114,Electronics,Smartwatches,Realme,6281.43,7560.0
+11,Lenovo Smartphones Max 377,Electronics,Smartphones,Lenovo,13765.24,16270.0
+12,Baseus Power Banks Pro 757,Electronics,Power Banks,Baseus,3433.43,4170.0
+13,Microlab Laptops Max 954,Electronics,Laptops,Microlab,6548.82,8380.0
+14,Samsung Laptops Series 310,Electronics,Laptops,Samsung,2272.1,2810.0
+15,Anker Bluetooth Speakers Classic 731,Electronics,Bluetooth Speakers,Anker,12804.66,14970.0
+16,Walton Smartphones Classic 801,Electronics,Smartphones,Walton,13461.87,15970.0
+17,Samsung Power Banks Classic 897,Electronics,Power Banks,Samsung,1208.88,1580.0
+18,Lenovo Smartphones Lite 474,Electronics,Smartphones,Lenovo,57205.95,73420.0
+19,Anker Bluetooth Speakers Plus 389,Electronics,Bluetooth Speakers,Anker,3732.52,4390.0
+20,Realme Power Banks Lite 728,Electronics,Power Banks,Realme,18065.9,22140.0
+21,Samsung Bluetooth Speakers Plus 556,Electronics,Bluetooth Speakers,Samsung,1637.17,2020.0
+22,Realme Bluetooth Speakers Plus 483,Electronics,Bluetooth Speakers,Realme,1069.0,1390.0
+23,Baseus Laptops Series 234,Electronics,Laptops,Baseus,2865.43,3610.0
+24,Anker Bluetooth Speakers Pro 244,Electronics,Bluetooth Speakers,Anker,3660.21,4530.0
+25,Anker Smartphones Prime 284,Electronics,Smartphones,Anker,10367.46,12320.0
+26,Realme Smartphones Edition 227,Electronics,Smartphones,Realme,58428.28,74670.0
+27,Apple Bluetooth Speakers Prime 915,Electronics,Bluetooth Speakers,Apple,50615.28,65690.0
+28,Apple Bluetooth Speakers Plus 281,Electronics,Bluetooth Speakers,Apple,11770.57,15330.0
+29,Realme Smartwatches Series 561,Electronics,Smartwatches,Realme,1470.7,1750.0
+30,Lenovo Power Banks Prime 380,Electronics,Power Banks,Lenovo,1199.83,1450.0
+31,Xiaomi Smartwatches Series 515,Electronics,Smartwatches,Xiaomi,5238.72,6290.0
+32,Walton Smartphones Max 166,Electronics,Smartphones,Walton,33780.82,40980.0
+33,Xiaomi Bluetooth Speakers Prime 620,Electronics,Bluetooth Speakers,Xiaomi,3198.75,3970.0
+34,Lenovo Smartphones Prime 620,Electronics,Smartphones,Lenovo,1707.72,2190.0
+35,Microlab Laptops Lite 576,Electronics,Laptops,Microlab,1256.16,1650.0
+36,Samsung Smartphones Series 778,Electronics,Smartphones,Samsung,27060.54,32210.0
+37,Anker Power Banks Max 310,Electronics,Power Banks,Anker,957.5,1230.0
+38,Xiaomi Laptops Select 13,Electronics,Laptops,Xiaomi,19189.48,24380.0
+39,Baseus Bluetooth Speakers Series 790,Electronics,Bluetooth Speakers,Baseus,27351.26,32080.0
+40,Microlab Smartwatches Max 901,Electronics,Smartwatches,Microlab,4691.72,5530.0
+41,Baseus Bluetooth Speakers Series 633,Electronics,Bluetooth Speakers,Baseus,37841.47,47440.0
+42,Xiaomi Smartwatches Edition 790,Electronics,Smartwatches,Xiaomi,4191.39,4910.0
+43,Microlab Smartwatches Series 950,Electronics,Smartwatches,Microlab,3731.94,4510.0
+44,Anker Smartphones Select 29,Electronics,Smartphones,Anker,21387.12,26860.0
+45,Anker Smartphones Lite 255,Electronics,Smartphones,Anker,42727.77,52570.0
+46,Realme Smartphones Max 97,Electronics,Smartphones,Realme,1577.35,2000.0
+47,Apple Bluetooth Speakers Max 788,Electronics,Bluetooth Speakers,Apple,24662.8,30680.0
+48,Xiaomi Earbuds Plus 685,Electronics,Earbuds,Xiaomi,25972.28,32040.0
+49,Microlab Laptops Plus 281,Electronics,Laptops,Microlab,9095.95,11130.0
+50,Lenovo Earbuds Classic 961,Electronics,Earbuds,Lenovo,1137.94,1340.0
+51,Realme Earbuds Lite 418,Electronics,Earbuds,Realme,1091.01,1370.0
+52,Anker Bluetooth Speakers Select 931,Electronics,Bluetooth Speakers,Anker,3705.87,4580.0
+53,Apple Earbuds Max 263,Electronics,Earbuds,Apple,47874.61,57330.0
+54,Samsung Smartwatches Edition 31,Electronics,Smartwatches,Samsung,5404.83,6890.0
+55,Microlab Earbuds Classic 612,Electronics,Earbuds,Microlab,2710.32,3180.0
+56,Walton Smartwatches Max 734,Electronics,Smartwatches,Walton,3476.78,4120.0
+57,Walton Bluetooth Speakers Classic 79,Electronics,Bluetooth Speakers,Walton,49088.84,63000.0
+58,Anker Smartphones Max 536,Electronics,Smartphones,Anker,13779.99,17830.0
+59,Baseus Smartwatches Select 229,Electronics,Smartwatches,Baseus,30986.66,36830.0
+60,Xiaomi Earbuds Select 258,Electronics,Earbuds,Xiaomi,43350.22,53780.0
+61,Lenovo Laptops Classic 106,Electronics,Laptops,Lenovo,28828.03,37420.0
+62,Lenovo Smartphones Edition 443,Electronics,Smartphones,Lenovo,3947.83,4650.0
+63,Apple Laptops Pro 699,Electronics,Laptops,Apple,2590.81,3170.0
+64,Samsung Bluetooth Speakers Pro 422,Electronics,Bluetooth Speakers,Samsung,30299.24,39150.0
+65,Anker Bluetooth Speakers Max 264,Electronics,Bluetooth Speakers,Anker,1003.07,1240.0
+66,Realme Smartwatches Series 469,Electronics,Smartwatches,Realme,5948.3,7100.0
+67,Lenovo Smartwatches Plus 295,Electronics,Smartwatches,Lenovo,1652.48,2000.0
+68,Realme Laptops Max 463,Electronics,Laptops,Realme,55164.85,66650.0
+69,Samsung Earbuds Pro 677,Electronics,Earbuds,Samsung,8639.3,10940.0
+70,Walton Earbuds Max 958,Electronics,Earbuds,Walton,4309.94,5650.0
+71,Xiaomi Smartwatches Prime 507,Electronics,Smartwatches,Xiaomi,60466.14,72430.0
+72,Realme Laptops Prime 934,Electronics,Laptops,Realme,8282.52,9980.0
+73,Remax Phone Cases Prime 12,Mobile Accessories,Phone Cases,Remax,173.64,320.0
+74,Hoco Type-C Cables Select 302,Mobile Accessories,Type-C Cables,Hoco,346.09,770.0
+75,Generic Type-C Cables Series 687,Mobile Accessories,Type-C Cables,Generic,84.03,170.0
+76,Joyroom Car Mounts Plus 204,Mobile Accessories,Car Mounts,Joyroom,863.59,1720.0
+77,Remax Fast Chargers Pro 603,Mobile Accessories,Fast Chargers,Remax,99.46,220.0
+78,Ugreen Car Mounts Pro 775,Mobile Accessories,Car Mounts,Ugreen,1063.37,2120.0
+79,Baseus Fast Chargers Pro 608,Mobile Accessories,Fast Chargers,Baseus,361.89,910.0
+80,Ugreen Type-C Cables Series 171,Mobile Accessories,Type-C Cables,Ugreen,113.22,280.0
+81,Ugreen Phone Cases Max 881,Mobile Accessories,Phone Cases,Ugreen,169.42,400.0
+82,Baseus Screen Protectors Max 701,Mobile Accessories,Screen Protectors,Baseus,363.13,820.0
+83,Joyroom Screen Protectors Max 974,Mobile Accessories,Screen Protectors,Joyroom,72.76,190.0
+84,Remax OTG Adapters Pro 644,Mobile Accessories,OTG Adapters,Remax,179.44,350.0
+85,Joyroom Phone Cases Series 333,Mobile Accessories,Phone Cases,Joyroom,73.41,170.0
+86,Remax Fast Chargers Edition 254,Mobile Accessories,Fast Chargers,Remax,508.41,930.0
+87,Joyroom Fast Chargers Plus 697,Mobile Accessories,Fast Chargers,Joyroom,297.77,590.0
+88,Hoco Car Mounts Select 333,Mobile Accessories,Car Mounts,Hoco,437.86,850.0
+89,Baseus Phone Cases Select 646,Mobile Accessories,Phone Cases,Baseus,453.75,960.0
+90,Baseus OTG Adapters Max 560,Mobile Accessories,OTG Adapters,Baseus,971.84,1860.0
+91,Ugreen Screen Protectors Lite 145,Mobile Accessories,Screen Protectors,Ugreen,195.1,370.0
+92,Baseus Fast Chargers Classic 388,Mobile Accessories,Fast Chargers,Baseus,674.16,1800.0
+93,Remax Fast Chargers Select 863,Mobile Accessories,Fast Chargers,Remax,125.4,300.0
+94,Generic OTG Adapters Lite 636,Mobile Accessories,OTG Adapters,Generic,592.6,1350.0
+95,Ugreen Car Mounts Pro 693,Mobile Accessories,Car Mounts,Ugreen,311.01,620.0
+96,Hoco OTG Adapters Max 971,Mobile Accessories,OTG Adapters,Hoco,70.41,190.0
+97,Hoco Screen Protectors Max 921,Mobile Accessories,Screen Protectors,Hoco,711.28,1680.0
+98,Generic Phone Cases Series 169,Mobile Accessories,Phone Cases,Generic,177.66,370.0
+99,Hoco Fast Chargers Classic 744,Mobile Accessories,Fast Chargers,Hoco,389.11,1050.0
+100,Remax Fast Chargers Lite 527,Mobile Accessories,Fast Chargers,Remax,638.32,1620.0
+101,Hoco Type-C Cables Pro 104,Mobile Accessories,Type-C Cables,Hoco,447.86,840.0
+102,Joyroom Car Mounts Lite 55,Mobile Accessories,Car Mounts,Joyroom,85.17,230.0
+103,Hoco Phone Cases Plus 662,Mobile Accessories,Phone Cases,Hoco,416.6,760.0
+104,Remax Fast Chargers Select 574,Mobile Accessories,Fast Chargers,Remax,83.46,200.0
+105,Joyroom Car Mounts Series 19,Mobile Accessories,Car Mounts,Joyroom,77.68,150.0
+106,Baseus Phone Cases Plus 568,Mobile Accessories,Phone Cases,Baseus,267.55,650.0
+107,Hoco Phone Cases Series 161,Mobile Accessories,Phone Cases,Hoco,434.43,860.0
+108,Remax Type-C Cables Pro 325,Mobile Accessories,Type-C Cables,Remax,512.6,1020.0
+109,Baseus Fast Chargers Edition 225,Mobile Accessories,Fast Chargers,Baseus,144.25,360.0
+110,Remax Car Mounts Max 372,Mobile Accessories,Car Mounts,Remax,326.93,860.0
+111,Joyroom OTG Adapters Plus 957,Mobile Accessories,OTG Adapters,Joyroom,383.98,880.0
+112,Remax Screen Protectors Plus 912,Mobile Accessories,Screen Protectors,Remax,90.53,190.0
+113,Baseus Type-C Cables Plus 764,Mobile Accessories,Type-C Cables,Baseus,155.37,310.0
+114,Joyroom Fast Chargers Classic 283,Mobile Accessories,Fast Chargers,Joyroom,966.33,2050.0
+115,Generic Screen Protectors Max 401,Mobile Accessories,Screen Protectors,Generic,699.22,1650.0
+116,Joyroom Phone Cases Classic 214,Mobile Accessories,Phone Cases,Joyroom,570.83,1270.0
+117,Hoco Type-C Cables Lite 850,Mobile Accessories,Type-C Cables,Hoco,320.56,710.0
+118,Remax Screen Protectors Pro 685,Mobile Accessories,Screen Protectors,Remax,101.38,250.0
+119,Joyroom Screen Protectors Edition 295,Mobile Accessories,Screen Protectors,Joyroom,174.44,320.0
+120,Hoco Phone Cases Edition 666,Mobile Accessories,Phone Cases,Hoco,437.39,850.0
+121,Joyroom OTG Adapters Series 349,Mobile Accessories,OTG Adapters,Joyroom,671.73,1870.0
+122,Baseus Phone Cases Lite 192,Mobile Accessories,Phone Cases,Baseus,832.94,1750.0
+123,Hoco OTG Adapters Pro 121,Mobile Accessories,OTG Adapters,Hoco,58.29,160.0
+124,Joyroom OTG Adapters Edition 756,Mobile Accessories,OTG Adapters,Joyroom,167.63,470.0
+125,Joyroom Fast Chargers Series 128,Mobile Accessories,Fast Chargers,Joyroom,758.8,2000.0
+126,Ugreen Type-C Cables Classic 270,Mobile Accessories,Type-C Cables,Ugreen,156.08,330.0
+127,Generic Phone Cases Prime 11,Mobile Accessories,Phone Cases,Generic,720.19,1480.0
+128,Ugreen OTG Adapters Classic 382,Mobile Accessories,OTG Adapters,Ugreen,105.27,240.0
+129,Baseus Type-C Cables Edition 648,Mobile Accessories,Type-C Cables,Baseus,759.97,1850.0
+130,Generic Fast Chargers Max 747,Mobile Accessories,Fast Chargers,Generic,366.09,690.0
+131,Ugreen Fast Chargers Lite 692,Mobile Accessories,Fast Chargers,Ugreen,274.55,780.0
+132,Hoco Type-C Cables Prime 723,Mobile Accessories,Type-C Cables,Hoco,98.19,220.0
+133,Ugreen Fast Chargers Plus 206,Mobile Accessories,Fast Chargers,Ugreen,634.92,1580.0
+134,Generic Type-C Cables Prime 703,Mobile Accessories,Type-C Cables,Generic,401.31,980.0
+135,Remax Car Mounts Lite 425,Mobile Accessories,Car Mounts,Remax,191.6,390.0
+136,Baseus OTG Adapters Lite 303,Mobile Accessories,OTG Adapters,Baseus,512.13,1320.0
+137,Joyroom Screen Protectors Edition 486,Mobile Accessories,Screen Protectors,Joyroom,565.72,1540.0
+138,Joyroom Type-C Cables Classic 533,Mobile Accessories,Type-C Cables,Joyroom,265.32,590.0
+139,Generic Type-C Cables Plus 684,Mobile Accessories,Type-C Cables,Generic,537.61,1280.0
+140,Hoco Phone Cases Series 689,Mobile Accessories,Phone Cases,Hoco,386.93,990.0
+141,Ugreen Car Mounts Edition 105,Mobile Accessories,Car Mounts,Ugreen,791.14,1640.0
+142,Generic Screen Protectors Lite 240,Mobile Accessories,Screen Protectors,Generic,217.79,410.0
+143,Remax Screen Protectors Pro 57,Mobile Accessories,Screen Protectors,Remax,385.4,710.0
+144,Joyroom Screen Protectors Max 476,Mobile Accessories,Screen Protectors,Joyroom,229.56,520.0
+145,Generic Type-C Cables Classic 745,Mobile Accessories,Type-C Cables,Generic,138.19,320.0
+146,Joyroom Car Mounts Select 419,Mobile Accessories,Car Mounts,Joyroom,86.8,160.0
+147,Remax Screen Protectors Pro 924,Mobile Accessories,Screen Protectors,Remax,654.81,1370.0
+148,Joyroom Phone Cases Classic 190,Mobile Accessories,Phone Cases,Joyroom,93.57,210.0
+149,Ugreen Car Mounts Select 61,Mobile Accessories,Car Mounts,Ugreen,603.13,1190.0
+150,Remax OTG Adapters Max 477,Mobile Accessories,OTG Adapters,Remax,426.34,800.0
+151,Joyroom Screen Protectors Series 582,Mobile Accessories,Screen Protectors,Joyroom,75.43,170.0
+152,Hoco OTG Adapters Select 637,Mobile Accessories,OTG Adapters,Hoco,270.41,640.0
+153,Ugreen Car Mounts Prime 860,Mobile Accessories,Car Mounts,Ugreen,372.57,1050.0
+154,Joyroom OTG Adapters Plus 771,Mobile Accessories,OTG Adapters,Joyroom,291.25,600.0
+155,Joyroom Type-C Cables Lite 779,Mobile Accessories,Type-C Cables,Joyroom,629.71,1270.0
+156,Generic Screen Protectors Lite 794,Mobile Accessories,Screen Protectors,Generic,261.81,490.0
+157,Joyroom OTG Adapters Classic 291,Mobile Accessories,OTG Adapters,Joyroom,57.2,160.0
+158,Baseus Type-C Cables Lite 250,Mobile Accessories,Type-C Cables,Baseus,583.34,1420.0
+159,Hoco Fast Chargers Edition 924,Mobile Accessories,Fast Chargers,Hoco,231.9,450.0
+160,Baseus OTG Adapters Plus 164,Mobile Accessories,OTG Adapters,Baseus,114.99,230.0
+161,Joyroom Screen Protectors Plus 733,Mobile Accessories,Screen Protectors,Joyroom,268.67,660.0
+162,Baseus Screen Protectors Prime 427,Mobile Accessories,Screen Protectors,Baseus,434.73,880.0
+163,Kay Kraft Sneakers Select 435,Fashion,Sneakers,Kay Kraft,4380.06,8350.0
+164,Sailor Panjabi Prime 408,Fashion,Panjabi,Sailor,1457.84,2670.0
+165,Richman Panjabi Select 16,Fashion,Panjabi,Richman,1106.35,1820.0
+166,Apex Sneakers Prime 883,Fashion,Sneakers,Apex,792.17,1520.0
+167,Kay Kraft Kurtis Series 829,Fashion,Kurtis,Kay Kraft,359.25,570.0
+168,Lotto Denim Jeans Classic 289,Fashion,Denim Jeans,Lotto,405.14,630.0
+169,Lotto Kurtis Pro 408,Fashion,Kurtis,Lotto,3336.08,6290.0
+170,Richman Sneakers Plus 870,Fashion,Sneakers,Richman,1342.74,2120.0
+171,Cats Eye T-Shirts Series 37,Fashion,T-Shirts,Cats Eye,1270.01,2230.0
+172,Aarong Kurtis Max 668,Fashion,Kurtis,Aarong,518.62,900.0
+173,Cats Eye Kurtis Select 196,Fashion,Kurtis,Cats Eye,932.47,1710.0
+174,Apex Panjabi Prime 345,Fashion,Panjabi,Apex,2158.12,3360.0
+175,Lotto Denim Jeans Edition 355,Fashion,Denim Jeans,Lotto,869.77,1600.0
+176,Apex Kurtis Prime 268,Fashion,Kurtis,Apex,1165.16,2310.0
+177,Lotto Sarees Pro 777,Fashion,Sarees,Lotto,2234.06,3590.0
+178,Bata Panjabi Classic 675,Fashion,Panjabi,Bata,362.33,670.0
+179,Aarong Sarees Pro 982,Fashion,Sarees,Aarong,324.75,590.0
+180,Sailor Denim Jeans Pro 646,Fashion,Denim Jeans,Sailor,4422.88,8010.0
+181,Sailor Salwar Kameez Plus 494,Fashion,Salwar Kameez,Sailor,897.46,1660.0
+182,Sailor Sarees Select 726,Fashion,Sarees,Sailor,1131.21,2030.0
+183,Bata Polo Shirts Plus 630,Fashion,Polo Shirts,Bata,4698.27,8040.0
+184,Cats Eye Sarees Lite 120,Fashion,Sarees,Cats Eye,4221.73,8510.0
+185,Apex Panjabi Prime 416,Fashion,Panjabi,Apex,612.68,960.0
+186,Yellow Denim Jeans Classic 114,Fashion,Denim Jeans,Yellow,472.24,730.0
+187,Yellow Polo Shirts Pro 365,Fashion,Polo Shirts,Yellow,384.4,720.0
+188,Bata Kurtis Max 528,Fashion,Kurtis,Bata,399.17,670.0
+189,Aarong Sneakers Prime 852,Fashion,Sneakers,Aarong,3947.33,6110.0
+190,Yellow T-Shirts Prime 993,Fashion,T-Shirts,Yellow,3371.67,5600.0
+191,Lotto Sneakers Plus 455,Fashion,Sneakers,Lotto,409.3,770.0
+192,Kay Kraft Salwar Kameez Lite 640,Fashion,Salwar Kameez,Kay Kraft,1652.74,3300.0
+193,Lotto T-Shirts Prime 855,Fashion,T-Shirts,Lotto,2294.93,4470.0
+194,Bata Polo Shirts Classic 860,Fashion,Polo Shirts,Bata,762.4,1230.0
+195,Apex Sarees Select 259,Fashion,Sarees,Apex,2394.95,4670.0
+196,Richman T-Shirts Edition 39,Fashion,T-Shirts,Richman,5363.66,9250.0
+197,Bata T-Shirts Plus 509,Fashion,T-Shirts,Bata,823.64,1590.0
+198,Bata Denim Jeans Lite 358,Fashion,Denim Jeans,Bata,713.07,1450.0
+199,Apex Polo Shirts Series 20,Fashion,Polo Shirts,Apex,3664.4,6350.0
+200,Yellow Denim Jeans Classic 747,Fashion,Denim Jeans,Yellow,2436.47,4670.0
+201,Lotto Kurtis Series 786,Fashion,Kurtis,Lotto,367.46,740.0
+202,Lotto Denim Jeans Select 468,Fashion,Denim Jeans,Lotto,1182.05,2320.0
+203,Yellow Panjabi Lite 236,Fashion,Panjabi,Yellow,681.93,1370.0
+204,Sailor Kurtis Lite 689,Fashion,Kurtis,Sailor,1082.42,1670.0
+205,Lotto Sneakers Series 553,Fashion,Sneakers,Lotto,4606.33,7260.0
+206,Richman Sneakers Series 348,Fashion,Sneakers,Richman,669.23,1370.0
+207,Lotto Sneakers Lite 323,Fashion,Sneakers,Lotto,4558.25,8250.0
+208,Sailor Polo Shirts Max 748,Fashion,Polo Shirts,Sailor,1910.63,3330.0
+209,Bata Denim Jeans Max 770,Fashion,Denim Jeans,Bata,754.54,1270.0
+210,Sailor Salwar Kameez Classic 766,Fashion,Salwar Kameez,Sailor,1952.64,3740.0
+211,Apex T-Shirts Series 621,Fashion,T-Shirts,Apex,2707.77,5250.0
+212,Yellow Polo Shirts Classic 313,Fashion,Polo Shirts,Yellow,401.82,710.0
+213,Bata Denim Jeans Plus 319,Fashion,Denim Jeans,Bata,361.78,650.0
+214,Kay Kraft Panjabi Plus 290,Fashion,Panjabi,Kay Kraft,968.24,1940.0
+215,Aarong Panjabi Series 309,Fashion,Panjabi,Aarong,938.85,1490.0
+216,Lotto Salwar Kameez Max 903,Fashion,Salwar Kameez,Lotto,432.05,830.0
+217,Apex Panjabi Select 500,Fashion,Panjabi,Apex,2024.99,3200.0
+218,Bata T-Shirts Plus 998,Fashion,T-Shirts,Bata,371.58,700.0
+219,Apex Panjabi Select 126,Fashion,Panjabi,Apex,346.99,680.0
+220,Richman Sarees Select 85,Fashion,Sarees,Richman,2614.66,4110.0
+221,Cats Eye Panjabi Plus 840,Fashion,Panjabi,Cats Eye,337.59,700.0
+222,Yellow Polo Shirts Classic 131,Fashion,Polo Shirts,Yellow,939.19,1600.0
+223,Sailor Kurtis Series 399,Fashion,Kurtis,Sailor,2723.55,5570.0
+224,Lotto T-Shirts Lite 890,Fashion,T-Shirts,Lotto,4765.18,9130.0
+225,Apex Kurtis Pro 634,Fashion,Kurtis,Apex,1023.65,1610.0
+226,Sailor Sarees Classic 280,Fashion,Sarees,Sailor,2792.01,5030.0
+227,Cats Eye Sarees Classic 187,Fashion,Sarees,Cats Eye,912.49,1840.0
+228,Cats Eye Sarees Pro 428,Fashion,Sarees,Cats Eye,430.35,760.0
+229,Lotto T-Shirts Lite 43,Fashion,T-Shirts,Lotto,325.09,570.0
+230,Apex Denim Jeans Lite 729,Fashion,Denim Jeans,Apex,409.37,650.0
+231,Yellow T-Shirts Classic 956,Fashion,T-Shirts,Yellow,415.52,770.0
+232,Sailor Polo Shirts Prime 127,Fashion,Polo Shirts,Sailor,2539.31,4610.0
+233,Cats Eye Denim Jeans Lite 856,Fashion,Denim Jeans,Cats Eye,5000.9,8530.0
+234,Yellow Salwar Kameez Pro 179,Fashion,Salwar Kameez,Yellow,622.9,1240.0
+235,Apex Polo Shirts Select 137,Fashion,Polo Shirts,Apex,505.7,1040.0
+236,Apex T-Shirts Prime 975,Fashion,T-Shirts,Apex,276.52,570.0
+237,Kay Kraft Polo Shirts Series 515,Fashion,Polo Shirts,Kay Kraft,309.07,620.0
+238,Yellow T-Shirts Pro 920,Fashion,T-Shirts,Yellow,1188.55,2470.0
+239,Bata Kurtis Lite 36,Fashion,Kurtis,Bata,377.97,680.0
+240,Sailor Sarees Pro 793,Fashion,Sarees,Sailor,4881.34,8700.0
+241,Aarong Polo Shirts Plus 491,Fashion,Polo Shirts,Aarong,1754.68,3300.0
+242,Apex T-Shirts Plus 609,Fashion,T-Shirts,Apex,1092.06,2010.0
+243,Lotto Kurtis Max 491,Fashion,Kurtis,Lotto,1445.7,2910.0
+244,Richman Sneakers Edition 338,Fashion,Sneakers,Richman,379.41,630.0
+245,Cats Eye Sarees Edition 431,Fashion,Sarees,Cats Eye,4113.91,8250.0
+246,Apex T-Shirts Prime 843,Fashion,T-Shirts,Apex,1094.6,2010.0
+247,Lotto Panjabi Max 332,Fashion,Panjabi,Lotto,747.8,1210.0
+248,Bata Polo Shirts Max 801,Fashion,Polo Shirts,Bata,1215.26,2060.0
+249,Kay Kraft Kurtis Pro 683,Fashion,Kurtis,Kay Kraft,1846.68,2900.0
+250,Richman T-Shirts Pro 202,Fashion,T-Shirts,Richman,4259.1,8830.0
+251,Lotto Sneakers Select 788,Fashion,Sneakers,Lotto,2246.63,4020.0
+252,Sailor Panjabi Lite 572,Fashion,Panjabi,Sailor,680.5,1330.0
+253,Apex Salwar Kameez Select 911,Fashion,Salwar Kameez,Apex,2408.51,3870.0
+254,Yellow T-Shirts Pro 655,Fashion,T-Shirts,Yellow,3759.94,7370.0
+255,Cats Eye Denim Jeans Lite 574,Fashion,Denim Jeans,Cats Eye,4334.15,8230.0
+256,Kay Kraft Panjabi Prime 105,Fashion,Panjabi,Kay Kraft,1829.32,3160.0
+257,Yellow Denim Jeans Select 979,Fashion,Denim Jeans,Yellow,3941.71,7840.0
+258,Cats Eye Sarees Select 965,Fashion,Sarees,Cats Eye,406.68,630.0
+259,Kay Kraft Polo Shirts Lite 435,Fashion,Polo Shirts,Kay Kraft,824.65,1610.0
+260,Lotto T-Shirts Classic 477,Fashion,T-Shirts,Lotto,5719.77,9160.0
+261,Richman Salwar Kameez Classic 953,Fashion,Salwar Kameez,Richman,1749.89,2990.0
+262,Yellow Salwar Kameez Lite 801,Fashion,Salwar Kameez,Yellow,4419.64,8720.0
+263,Bata Kurtis Series 283,Fashion,Kurtis,Bata,3416.23,5990.0
+264,Apex Panjabi Lite 867,Fashion,Panjabi,Apex,1080.3,1790.0
+265,Cats Eye T-Shirts Select 561,Fashion,T-Shirts,Cats Eye,326.95,650.0
+266,Bata T-Shirts Edition 575,Fashion,T-Shirts,Bata,2673.87,5570.0
+267,Lotto Kurtis Edition 900,Fashion,Kurtis,Lotto,5227.98,9410.0
+268,Sailor Denim Jeans Prime 249,Fashion,Denim Jeans,Sailor,2407.8,4920.0
+269,Aarong Kurtis Edition 772,Fashion,Kurtis,Aarong,3763.22,6190.0
+270,Richman T-Shirts Prime 689,Fashion,T-Shirts,Richman,1249.81,1990.0
+271,Lotto Salwar Kameez Pro 139,Fashion,Salwar Kameez,Lotto,4556.1,8330.0
+272,Yellow Sneakers Select 112,Fashion,Sneakers,Yellow,567.96,1060.0
+273,Aarong T-Shirts Plus 429,Fashion,T-Shirts,Aarong,1885.16,3200.0
+274,Yellow Salwar Kameez Select 810,Fashion,Salwar Kameez,Yellow,407.23,760.0
+275,Bata Polo Shirts Prime 675,Fashion,Polo Shirts,Bata,1255.27,2420.0
+276,Bata Sarees Series 399,Fashion,Sarees,Bata,1222.41,2420.0
+277,Lotto Sneakers Series 46,Fashion,Sneakers,Lotto,1469.8,2650.0
+278,Sailor Sarees Lite 242,Fashion,Sarees,Sailor,3883.8,6680.0
+279,Richman Sarees Max 788,Fashion,Sarees,Richman,522.54,810.0
+280,Lotto Sarees Plus 720,Fashion,Sarees,Lotto,2575.71,4730.0
+281,Aarong Polo Shirts Pro 342,Fashion,Polo Shirts,Aarong,2510.43,4090.0
+282,Apex Panjabi Edition 393,Fashion,Panjabi,Apex,524.5,810.0
+283,Cats Eye Kurtis Classic 553,Fashion,Kurtis,Cats Eye,819.07,1490.0
+284,Cats Eye Kurtis Plus 189,Fashion,Kurtis,Cats Eye,967.06,1680.0
+285,Richman Sarees Classic 519,Fashion,Sarees,Richman,4271.46,7230.0
+286,Sailor Salwar Kameez Select 663,Fashion,Salwar Kameez,Sailor,1229.93,2380.0
+287,Lotto Polo Shirts Lite 692,Fashion,Polo Shirts,Lotto,925.22,1700.0
+288,Lotto Panjabi Lite 703,Fashion,Panjabi,Lotto,3136.69,6420.0
+289,Yellow Salwar Kameez Select 977,Fashion,Salwar Kameez,Yellow,413.68,840.0
+290,Apex Sneakers Prime 716,Fashion,Sneakers,Apex,1357.66,2240.0
+291,Lotto Polo Shirts Lite 213,Fashion,Polo Shirts,Lotto,981.29,2030.0
+292,Lotto Kurtis Max 252,Fashion,Kurtis,Lotto,1330.81,2240.0
+293,Bata Kurtis Lite 726,Fashion,Kurtis,Bata,2034.65,3340.0
+294,Aarong Polo Shirts Prime 291,Fashion,Polo Shirts,Aarong,427.1,680.0
+295,Aarong Panjabi Select 862,Fashion,Panjabi,Aarong,493.1,790.0
+296,Sailor Polo Shirts Edition 234,Fashion,Polo Shirts,Sailor,443.66,820.0
+297,Apex Denim Jeans Plus 653,Fashion,Denim Jeans,Apex,543.94,920.0
+298,Aarong Sarees Lite 817,Fashion,Sarees,Aarong,4031.54,7080.0
+299,Aarong T-Shirts Edition 759,Fashion,T-Shirts,Aarong,2284.2,3680.0
+300,Yellow Salwar Kameez Lite 344,Fashion,Salwar Kameez,Yellow,610.9,950.0
+301,Cats Eye Kurtis Classic 145,Fashion,Kurtis,Cats Eye,536.35,890.0
+302,Kay Kraft Sneakers Series 945,Fashion,Sneakers,Kay Kraft,577.78,910.0
+303,Cats Eye Polo Shirts Lite 945,Fashion,Polo Shirts,Cats Eye,445.9,780.0
+304,Apex T-Shirts Edition 833,Fashion,T-Shirts,Apex,582.19,990.0
+305,Lotto Sarees Max 154,Fashion,Sarees,Lotto,1230.38,2310.0
+306,Richman Denim Jeans Series 384,Fashion,Denim Jeans,Richman,318.74,620.0
+307,Richman Sarees Pro 280,Fashion,Sarees,Richman,2092.77,3290.0
+308,Lotto Sarees Edition 698,Fashion,Sarees,Lotto,3271.58,6630.0
+309,Richman Polo Shirts Edition 120,Fashion,Polo Shirts,Richman,391.91,650.0
+310,Lotto Denim Jeans Pro 644,Fashion,Denim Jeans,Lotto,2859.69,5470.0
+311,Sailor Sneakers Max 660,Fashion,Sneakers,Sailor,571.4,930.0
+312,Apex T-Shirts Prime 129,Fashion,T-Shirts,Apex,896.86,1580.0
+313,The Ordinary Sunscreens Pro 321,Beauty,Sunscreens,The Ordinary,837.16,1630.0
+314,COSRX Lipsticks Max 250,Beauty,Lipsticks,COSRX,490.0,1100.0
+315,Neutrogena Hair Oils Prime 474,Beauty,Hair Oils,Neutrogena,203.13,380.0
+316,Focallure Moisturizers Plus 916,Beauty,Moisturizers,Focallure,862.86,2060.0
+317,COSRX Lipsticks Select 640,Beauty,Lipsticks,COSRX,605.27,1250.0
+318,Parachute Lipsticks Pro 716,Beauty,Lipsticks,Parachute,229.75,460.0
+319,Lafz Moisturizers Select 465,Beauty,Moisturizers,Lafz,702.63,1310.0
+320,Nivea Sunscreens Max 712,Beauty,Sunscreens,Nivea,348.22,680.0
+321,Nivea Moisturizers Pro 417,Beauty,Moisturizers,Nivea,193.15,370.0
+322,Lafz Moisturizers Max 981,Beauty,Moisturizers,Lafz,307.42,590.0
+323,Simple Shampoo Max 688,Beauty,Shampoo,Simple,197.26,470.0
+324,The Ordinary Sunscreens Pro 815,Beauty,Sunscreens,The Ordinary,700.38,1530.0
+325,Lafz Moisturizers Plus 815,Beauty,Moisturizers,Lafz,1220.8,2490.0
+326,Lafz Hair Oils Max 859,Beauty,Hair Oils,Lafz,207.83,430.0
+327,Lafz Shampoo Classic 842,Beauty,Shampoo,Lafz,668.73,1500.0
+328,Lafz Shampoo Edition 802,Beauty,Shampoo,Lafz,568.18,1020.0
+329,The Ordinary Sunscreens Lite 889,Beauty,Sunscreens,The Ordinary,365.4,710.0
+330,Neutrogena Sunscreens Series 266,Beauty,Sunscreens,Neutrogena,830.43,1740.0
+331,Neutrogena Shampoo Max 686,Beauty,Shampoo,Neutrogena,342.06,850.0
+332,The Ordinary Shampoo Plus 25,Beauty,Shampoo,The Ordinary,848.93,1580.0
+333,Lafz Moisturizers Edition 26,Beauty,Moisturizers,Lafz,248.62,450.0
+334,Parachute Sunscreens Pro 139,Beauty,Sunscreens,Parachute,352.69,640.0
+335,Focallure Face Wash Series 126,Beauty,Face Wash,Focallure,296.06,560.0
+336,COSRX Face Wash Select 469,Beauty,Face Wash,COSRX,226.03,540.0
+337,Nivea Shampoo Series 617,Beauty,Shampoo,Nivea,208.8,430.0
+338,Simple Face Serums Series 236,Beauty,Face Serums,Simple,391.08,970.0
+339,The Ordinary Hair Oils Series 318,Beauty,Hair Oils,The Ordinary,233.86,460.0
+340,The Ordinary Lipsticks Pro 500,Beauty,Lipsticks,The Ordinary,1650.17,3890.0
+341,Focallure Shampoo Prime 712,Beauty,Shampoo,Focallure,1424.65,2670.0
+342,Simple Face Serums Select 85,Beauty,Face Serums,Simple,248.21,540.0
+343,Nivea Face Serums Plus 77,Beauty,Face Serums,Nivea,1688.84,3520.0
+344,Parachute Sunscreens Series 739,Beauty,Sunscreens,Parachute,767.93,1450.0
+345,Focallure Moisturizers Series 311,Beauty,Moisturizers,Focallure,1294.81,2370.0
+346,Focallure Lipsticks Max 822,Beauty,Lipsticks,Focallure,392.67,780.0
+347,COSRX Face Wash Series 748,Beauty,Face Wash,COSRX,665.09,1240.0
+348,Lafz Shampoo Prime 472,Beauty,Shampoo,Lafz,220.94,470.0
+349,Focallure Sunscreens Edition 857,Beauty,Sunscreens,Focallure,342.27,720.0
+350,Focallure Lipsticks Prime 757,Beauty,Lipsticks,Focallure,251.63,510.0
+351,Nivea Face Serums Prime 330,Beauty,Face Serums,Nivea,747.58,1310.0
+352,Parachute Face Wash Edition 986,Beauty,Face Wash,Parachute,450.2,810.0
+353,Simple Sunscreens Max 103,Beauty,Sunscreens,Simple,164.74,410.0
+354,COSRX Shampoo Max 452,Beauty,Shampoo,COSRX,338.69,780.0
+355,Nivea Face Serums Plus 579,Beauty,Face Serums,Nivea,301.84,660.0
+356,Nivea Face Serums Max 430,Beauty,Face Serums,Nivea,1092.13,2310.0
+357,Focallure Moisturizers Pro 304,Beauty,Moisturizers,Focallure,571.63,1130.0
+358,Parachute Hair Oils Edition 116,Beauty,Hair Oils,Parachute,342.53,830.0
+359,Lafz Hair Oils Plus 682,Beauty,Hair Oils,Lafz,1121.37,2760.0
+360,Lafz Lipsticks Max 368,Beauty,Lipsticks,Lafz,215.25,480.0
+361,Nivea Shampoo Max 790,Beauty,Shampoo,Nivea,1970.56,3600.0
+362,Lafz Moisturizers Prime 875,Beauty,Moisturizers,Lafz,183.11,410.0
+363,The Ordinary Hair Oils Lite 39,Beauty,Hair Oils,The Ordinary,625.57,1460.0
+364,Parachute Sunscreens Lite 953,Beauty,Sunscreens,Parachute,218.43,500.0
+365,Nivea Moisturizers Pro 195,Beauty,Moisturizers,Nivea,319.31,580.0
+366,Neutrogena Shampoo Prime 81,Beauty,Shampoo,Neutrogena,229.69,530.0
+367,The Ordinary Sunscreens Max 774,Beauty,Sunscreens,The Ordinary,889.1,1830.0
+368,Lafz Hair Oils Prime 439,Beauty,Hair Oils,Lafz,358.79,850.0
+369,Nivea Lipsticks Plus 388,Beauty,Lipsticks,Nivea,402.7,930.0
+370,Nivea Moisturizers Max 914,Beauty,Moisturizers,Nivea,532.64,1040.0
+371,Neutrogena Face Serums Plus 782,Beauty,Face Serums,Neutrogena,583.58,1110.0
+372,The Ordinary Hair Oils Max 288,Beauty,Hair Oils,The Ordinary,1096.5,2240.0
+373,Focallure Lipsticks Select 631,Beauty,Lipsticks,Focallure,259.21,620.0
+374,Focallure Lipsticks Lite 230,Beauty,Lipsticks,Focallure,438.77,910.0
+375,COSRX Shampoo Edition 450,Beauty,Shampoo,COSRX,1557.23,3330.0
+376,Parachute Face Serums Select 549,Beauty,Face Serums,Parachute,193.09,470.0
+377,Parachute Face Wash Pro 235,Beauty,Face Wash,Parachute,867.93,1670.0
+378,The Ordinary Lipsticks Pro 219,Beauty,Lipsticks,The Ordinary,214.17,490.0
+379,Lafz Moisturizers Plus 792,Beauty,Moisturizers,Lafz,788.88,1630.0
+380,Parachute Moisturizers Edition 132,Beauty,Moisturizers,Parachute,1414.91,3230.0
+381,Simple Face Serums Prime 189,Beauty,Face Serums,Simple,267.18,510.0
+382,Focallure Sunscreens Series 730,Beauty,Sunscreens,Focallure,289.96,650.0
+383,Nivea Sunscreens Max 416,Beauty,Sunscreens,Nivea,181.42,380.0
+384,The Ordinary Shampoo Prime 29,Beauty,Shampoo,The Ordinary,983.68,2330.0
+385,COSRX Lipsticks Edition 599,Beauty,Lipsticks,COSRX,354.38,820.0
+386,Focallure Lipsticks Prime 306,Beauty,Lipsticks,Focallure,196.71,460.0
+387,Focallure Face Serums Pro 999,Beauty,Face Serums,Focallure,244.07,480.0
+388,Neutrogena Moisturizers Select 861,Beauty,Moisturizers,Neutrogena,1404.66,2540.0
+389,Nivea Face Wash Max 457,Beauty,Face Wash,Nivea,279.0,620.0
+390,COSRX Shampoo Classic 456,Beauty,Shampoo,COSRX,971.0,2090.0
+391,Focallure Hair Oils Series 90,Beauty,Hair Oils,Focallure,945.33,1960.0
+392,Parachute Lipsticks Edition 236,Beauty,Lipsticks,Parachute,336.55,650.0
+393,Neutrogena Moisturizers Max 532,Beauty,Moisturizers,Neutrogena,229.06,550.0
+394,COSRX Face Wash Series 532,Beauty,Face Wash,COSRX,756.69,1490.0
+395,Nivea Sunscreens Edition 754,Beauty,Sunscreens,Nivea,450.44,1100.0
+396,Neutrogena Shampoo Classic 115,Beauty,Shampoo,Neutrogena,241.98,510.0
+397,Parachute Sunscreens Classic 187,Beauty,Sunscreens,Parachute,578.02,1230.0
+398,Neutrogena Hair Oils Max 191,Beauty,Hair Oils,Neutrogena,156.52,370.0
+399,Simple Shampoo Select 782,Beauty,Shampoo,Simple,1697.88,3550.0
+400,Simple Hair Oils Edition 894,Beauty,Hair Oils,Simple,819.62,1980.0
+401,Nivea Face Wash Plus 460,Beauty,Face Wash,Nivea,1121.66,2030.0
+402,Simple Face Serums Select 656,Beauty,Face Serums,Simple,692.06,1470.0
+403,Parachute Moisturizers Pro 370,Beauty,Moisturizers,Parachute,447.44,1000.0
+404,COSRX Hair Oils Lite 482,Beauty,Hair Oils,COSRX,1475.83,3570.0
+405,The Ordinary Lipsticks Pro 387,Beauty,Lipsticks,The Ordinary,598.79,1070.0
+406,Parachute Shampoo Max 670,Beauty,Shampoo,Parachute,1733.15,4040.0
+407,COSRX Shampoo Series 403,Beauty,Shampoo,COSRX,198.84,480.0
+408,The Ordinary Lipsticks Select 940,Beauty,Lipsticks,The Ordinary,1479.29,3040.0
+409,Transcom Electric Blenders Classic 339,Home & Living,Electric Blenders,Transcom,1955.36,2980.0
+410,Regal Electric Blenders Series 164,Home & Living,Electric Blenders,Regal,359.84,540.0
+411,Regal Bedsheets Max 840,Home & Living,Bedsheets,Regal,4214.86,5860.0
+412,Transcom LED Lights Max 526,Home & Living,LED Lights,Transcom,859.74,1310.0
+413,Walton Storage Racks Pro 263,Home & Living,Storage Racks,Walton,1437.79,2510.0
+414,Regal Storage Racks Select 546,Home & Living,Storage Racks,Regal,903.7,1360.0
+415,Jafran Electric Blenders Plus 382,Home & Living,Electric Blenders,Jafran,3076.31,4750.0
+416,Vision LED Lights Prime 428,Home & Living,LED Lights,Vision,595.8,920.0
+417,Transcom LED Lights Pro 818,Home & Living,LED Lights,Transcom,491.16,710.0
+418,Transcom Storage Racks Edition 77,Home & Living,Storage Racks,Transcom,1443.07,2210.0
+419,Kiam LED Lights Series 704,Home & Living,LED Lights,Kiam,5547.7,8380.0
+420,Vision Curtains Lite 751,Home & Living,Curtains,Vision,1782.25,2880.0
+421,Jafran Storage Racks Plus 351,Home & Living,Storage Racks,Jafran,288.5,470.0
+422,Jafran Bedsheets Plus 948,Home & Living,Bedsheets,Jafran,447.32,790.0
+423,Vision LED Lights Prime 142,Home & Living,LED Lights,Vision,470.64,720.0
+424,Transcom Electric Blenders Max 327,Home & Living,Electric Blenders,Transcom,330.7,590.0
+425,Regal Electric Blenders Edition 842,Home & Living,Electric Blenders,Regal,1399.41,2240.0
+426,Transcom Cookware Sets Series 105,Home & Living,Cookware Sets,Transcom,336.0,560.0
+427,Transcom Storage Racks Prime 530,Home & Living,Storage Racks,Transcom,507.15,880.0
+428,Kiam LED Lights Edition 326,Home & Living,LED Lights,Kiam,599.86,870.0
+429,Walton Cookware Sets Edition 980,Home & Living,Cookware Sets,Walton,328.68,510.0
+430,Walton Curtains Classic 150,Home & Living,Curtains,Walton,1943.99,2740.0
+431,Kiam Cookware Sets Lite 874,Home & Living,Cookware Sets,Kiam,3476.93,5370.0
+432,Jafran Bedsheets Series 865,Home & Living,Bedsheets,Jafran,1565.24,2410.0
+433,Jafran Storage Racks Pro 687,Home & Living,Storage Racks,Jafran,1021.34,1620.0
+434,Philips LED Lights Plus 621,Home & Living,LED Lights,Philips,511.26,740.0
+435,Walton Curtains Plus 195,Home & Living,Curtains,Walton,4020.15,7070.0
+436,Philips Storage Racks Plus 748,Home & Living,Storage Racks,Philips,1001.49,1480.0
+437,Kiam Curtains Prime 383,Home & Living,Curtains,Kiam,2310.75,3530.0
+438,Transcom Storage Racks Classic 464,Home & Living,Storage Racks,Transcom,340.56,490.0
+439,Vision Electric Blenders Select 249,Home & Living,Electric Blenders,Vision,2728.7,4440.0
+440,Walton Electric Blenders Lite 998,Home & Living,Electric Blenders,Walton,335.4,490.0
+441,Philips Curtains Classic 386,Home & Living,Curtains,Philips,575.75,940.0
+442,Jafran Storage Racks Select 482,Home & Living,Storage Racks,Jafran,337.6,480.0
+443,Philips LED Lights Prime 524,Home & Living,LED Lights,Philips,4010.31,5800.0
+444,Regal Electric Blenders Plus 846,Home & Living,Electric Blenders,Regal,2475.26,3630.0
+445,Philips Cookware Sets Plus 903,Home & Living,Cookware Sets,Philips,422.28,620.0
+446,Kiam LED Lights Select 905,Home & Living,LED Lights,Kiam,2641.39,4530.0
+447,Jafran LED Lights Max 738,Home & Living,LED Lights,Jafran,4194.72,6390.0
+448,Philips Electric Blenders Max 301,Home & Living,Electric Blenders,Philips,2618.24,3810.0
+449,Philips Bedsheets Plus 289,Home & Living,Bedsheets,Philips,663.07,1150.0
+450,Jafran Curtains Plus 860,Home & Living,Curtains,Jafran,331.97,470.0
+451,Kiam Curtains Classic 846,Home & Living,Curtains,Kiam,622.71,870.0
+452,Vision Curtains Pro 434,Home & Living,Curtains,Vision,501.37,800.0
+453,Regal Bedsheets Series 392,Home & Living,Bedsheets,Regal,998.51,1730.0
+454,Regal Cookware Sets Max 393,Home & Living,Cookware Sets,Regal,4085.0,6140.0
+455,Kiam Cookware Sets Edition 963,Home & Living,Cookware Sets,Kiam,679.03,1030.0
+456,Philips Bedsheets Edition 820,Home & Living,Bedsheets,Philips,2011.02,2970.0
+457,Walton Cookware Sets Pro 303,Home & Living,Cookware Sets,Walton,2166.38,3310.0
+458,Transcom Curtains Plus 787,Home & Living,Curtains,Transcom,1710.08,2630.0
+459,Regal Storage Racks Select 640,Home & Living,Storage Racks,Regal,653.48,1150.0
+460,Kiam Bedsheets Pro 272,Home & Living,Bedsheets,Kiam,3606.5,5170.0
+461,Philips Cookware Sets Plus 571,Home & Living,Cookware Sets,Philips,4635.32,7220.0
+462,Jafran Storage Racks Series 443,Home & Living,Storage Racks,Jafran,4647.38,7850.0
+463,Philips Bedsheets Lite 253,Home & Living,Bedsheets,Philips,1253.71,1750.0
+464,Kiam LED Lights Pro 254,Home & Living,LED Lights,Kiam,671.34,1060.0
+465,Transcom Curtains Select 74,Home & Living,Curtains,Transcom,2314.5,3410.0
+466,Philips Bedsheets Select 621,Home & Living,Bedsheets,Philips,410.49,700.0
+467,Kiam Electric Blenders Series 598,Home & Living,Electric Blenders,Kiam,6657.76,10470.0
+468,Transcom Cookware Sets Plus 308,Home & Living,Cookware Sets,Transcom,527.62,780.0
+469,Kiam Curtains Edition 256,Home & Living,Curtains,Kiam,275.38,480.0
+470,Regal Electric Blenders Plus 690,Home & Living,Electric Blenders,Regal,414.32,660.0
+471,Kiam Storage Racks Series 379,Home & Living,Storage Racks,Kiam,681.84,1080.0
+472,Jafran Bedsheets Series 529,Home & Living,Bedsheets,Jafran,2119.94,3610.0
+473,Jafran Electric Blenders Pro 409,Home & Living,Electric Blenders,Jafran,624.87,870.0
+474,Kiam Curtains Prime 392,Home & Living,Curtains,Kiam,403.2,700.0
+475,Transcom LED Lights Pro 375,Home & Living,LED Lights,Transcom,4589.44,7350.0
+476,Vision Bedsheets Classic 760,Home & Living,Bedsheets,Vision,1883.73,3070.0
+477,Transcom Storage Racks Max 800,Home & Living,Storage Racks,Transcom,453.22,790.0
+478,Transcom Electric Blenders Edition 146,Home & Living,Electric Blenders,Transcom,1132.96,1720.0
+479,Vision Bedsheets Series 356,Home & Living,Bedsheets,Vision,1681.47,2360.0
+480,Walton Storage Racks Select 722,Home & Living,Storage Racks,Walton,463.47,770.0
+481,Teer Special Ghee Plus 74,Grocery,Special Ghee,Teer,127.76,150.0
+482,ACI Pure Sylhet Tea Pro 310,Grocery,Sylhet Tea,ACI Pure,225.9,260.0
+483,Pran Mustard Oil Classic 917,Grocery,Mustard Oil,Pran,252.75,290.0
+484,Chashi Miniket Rice Lite 537,Grocery,Miniket Rice,Chashi,963.85,1100.0
+485,ACI Pure Special Ghee Lite 47,Grocery,Special Ghee,ACI Pure,594.72,690.0
+486,Fresh Lentils Lite 375,Grocery,Lentils,Fresh,759.05,920.0
+487,Pran Lentils Edition 289,Grocery,Lentils,Pran,1006.4,1140.0
+488,Chashi Miniket Rice Prime 920,Grocery,Miniket Rice,Chashi,114.27,130.0
+489,ACI Pure Special Ghee Prime 357,Grocery,Special Ghee,ACI Pure,671.91,750.0
+490,ACI Pure Mustard Oil Select 386,Grocery,Mustard Oil,ACI Pure,468.74,550.0
+491,Ispahani Lentils Max 754,Grocery,Lentils,Ispahani,285.03,340.0
+492,Radhuni Special Ghee Prime 626,Grocery,Special Ghee,Radhuni,151.98,170.0
+493,Teer Lentils Series 310,Grocery,Lentils,Teer,972.21,1130.0
+494,Radhuni Spices Combo Max 345,Grocery,Spices Combo,Radhuni,865.21,1000.0
+495,Ispahani Sylhet Tea Lite 466,Grocery,Sylhet Tea,Ispahani,216.96,260.0
+496,Square Sundarban Honey Plus 716,Grocery,Sundarban Honey,Square,1182.19,1400.0
+497,Chashi Special Ghee Select 53,Grocery,Special Ghee,Chashi,238.78,280.0
+498,Chashi Sylhet Tea Prime 291,Grocery,Sylhet Tea,Chashi,321.36,360.0
+499,Pran Sylhet Tea Max 697,Grocery,Sylhet Tea,Pran,1795.89,2020.0
+500,Square Sylhet Tea Edition 535,Grocery,Sylhet Tea,Square,1927.43,2230.0
+501,Teer Lentils Pro 156,Grocery,Lentils,Teer,179.9,210.0
+502,ACI Pure Lentils Pro 139,Grocery,Lentils,ACI Pure,1480.9,1760.0
+503,Fresh Miniket Rice Edition 380,Grocery,Miniket Rice,Fresh,1211.64,1430.0
+504,Pran Special Ghee Plus 705,Grocery,Special Ghee,Pran,840.38,1010.0
+505,Chashi Special Ghee Edition 464,Grocery,Special Ghee,Chashi,223.82,260.0
+506,Radhuni Lentils Plus 552,Grocery,Lentils,Radhuni,197.04,240.0
+507,Square Spices Combo Edition 675,Grocery,Spices Combo,Square,1964.09,2190.0
+508,Fresh Spices Combo Max 36,Grocery,Spices Combo,Fresh,867.28,1050.0
+509,Teer Sylhet Tea Select 540,Grocery,Sylhet Tea,Teer,179.46,210.0
+510,Radhuni Special Ghee Lite 803,Grocery,Special Ghee,Radhuni,1794.57,2000.0
+511,ACI Pure Spices Combo Classic 636,Grocery,Spices Combo,ACI Pure,902.5,1030.0
+512,ACI Pure Spices Combo Classic 135,Grocery,Spices Combo,ACI Pure,1693.97,2060.0
+513,Radhuni Mustard Oil Select 186,Grocery,Mustard Oil,Radhuni,1887.92,2190.0
+514,ACI Pure Sylhet Tea Max 839,Grocery,Sylhet Tea,ACI Pure,1415.14,1700.0
+515,Chashi Sylhet Tea Edition 736,Grocery,Sylhet Tea,Chashi,266.78,320.0
+516,Ispahani Miniket Rice Lite 881,Grocery,Miniket Rice,Ispahani,110.8,130.0
+517,Teer Mustard Oil Edition 530,Grocery,Mustard Oil,Teer,213.69,240.0
+518,Radhuni Mustard Oil Classic 821,Grocery,Mustard Oil,Radhuni,126.64,150.0
+519,Fresh Mustard Oil Select 36,Grocery,Mustard Oil,Fresh,286.29,340.0
+520,Chashi Spices Combo Select 832,Grocery,Spices Combo,Chashi,131.22,150.0
+521,Teer Sundarban Honey Max 77,Grocery,Sundarban Honey,Teer,527.15,630.0
+522,Square Spices Combo Select 548,Grocery,Spices Combo,Square,271.98,320.0
+523,Square Special Ghee Max 138,Grocery,Special Ghee,Square,1556.84,1830.0
+524,Radhuni Spices Combo Select 487,Grocery,Spices Combo,Radhuni,224.51,250.0
+525,Chashi Sylhet Tea Plus 909,Grocery,Sylhet Tea,Chashi,1563.04,1740.0
+526,Teer Lentils Plus 453,Grocery,Lentils,Teer,1518.1,1770.0
+527,Pran Sundarban Honey Max 540,Grocery,Sundarban Honey,Pran,1805.97,2160.0
+528,Ispahani Mustard Oil Plus 175,Grocery,Mustard Oil,Ispahani,2249.61,2580.0
+529,Decathlon Gym Gloves Classic 364,Sports,Gym Gloves,Decathlon,2175.02,3400.0
+530,Cosco Bangladesh Cricket Jersey Max 266,Sports,Bangladesh Cricket Jersey,Cosco,920.93,1520.0
+531,Decathlon Footballs Series 291,Sports,Footballs,Decathlon,2524.41,4570.0
+532,Decathlon Footballs Lite 639,Sports,Footballs,Decathlon,2173.31,3410.0
+533,CA Sports Bangladesh Cricket Jersey Series 666,Sports,Bangladesh Cricket Jersey,CA Sports,760.28,1290.0
+534,Kiprun Footballs Plus 185,Sports,Footballs,Kiprun,533.07,780.0
+535,Kiprun Badminton Rackets Edition 872,Sports,Badminton Rackets,Kiprun,709.47,1080.0
+536,CA Sports Bangladesh Cricket Jersey Pro 93,Sports,Bangladesh Cricket Jersey,CA Sports,605.11,910.0
+537,Decathlon Cricket Bats Lite 676,Sports,Cricket Bats,Decathlon,313.79,450.0
+538,Nivia Footballs Prime 642,Sports,Footballs,Nivia,3993.04,6280.0
+539,CA Sports Badminton Rackets Select 920,Sports,Badminton Rackets,CA Sports,699.72,1170.0
+540,Kiprun Badminton Rackets Lite 667,Sports,Badminton Rackets,Kiprun,412.55,740.0
+541,Yonex Gym Gloves Classic 834,Sports,Gym Gloves,Yonex,2457.99,3580.0
+542,Yonex Badminton Rackets Lite 474,Sports,Badminton Rackets,Yonex,727.21,1280.0
+543,Decathlon Cricket Bats Pro 171,Sports,Cricket Bats,Decathlon,3508.49,5570.0
+544,Yonex Yoga Mats Select 485,Sports,Yoga Mats,Yonex,1491.63,2210.0
+545,Cosco Footballs Plus 330,Sports,Footballs,Cosco,4217.68,6340.0
+546,Cosco Badminton Rackets Edition 418,Sports,Badminton Rackets,Cosco,3338.14,5540.0
+547,Nivia Footballs Edition 537,Sports,Footballs,Nivia,1358.35,2180.0
+548,CA Sports Bangladesh Cricket Jersey Edition 257,Sports,Bangladesh Cricket Jersey,CA Sports,511.88,760.0
+549,CA Sports Yoga Mats Lite 470,Sports,Yoga Mats,CA Sports,497.31,740.0
+550,SS Ton Footballs Max 61,Sports,Footballs,SS Ton,2279.13,3520.0
+551,Yonex Gym Gloves Prime 264,Sports,Gym Gloves,Yonex,260.68,470.0
+552,Nivia Footballs Edition 966,Sports,Footballs,Nivia,2635.93,4700.0
+553,Decathlon Bangladesh Cricket Jersey Edition 204,Sports,Bangladesh Cricket Jersey,Decathlon,4319.8,6410.0
+554,Yonex Footballs Series 488,Sports,Footballs,Yonex,709.38,1210.0
+555,Cosco Yoga Mats Select 33,Sports,Yoga Mats,Cosco,1888.59,2790.0
+556,Yonex Cricket Bats Series 478,Sports,Cricket Bats,Yonex,2592.04,3890.0
+557,SS Ton Footballs Edition 59,Sports,Footballs,SS Ton,464.59,750.0
+558,Cosco Cricket Bats Select 621,Sports,Cricket Bats,Cosco,1281.14,2090.0
+559,Decathlon Badminton Rackets Select 302,Sports,Badminton Rackets,Decathlon,295.56,520.0
+560,CA Sports Bangladesh Cricket Jersey Max 451,Sports,Bangladesh Cricket Jersey,CA Sports,571.68,840.0
+561,Cosco Footballs Edition 792,Sports,Footballs,Cosco,2655.23,4770.0
+562,Cosco Yoga Mats Pro 420,Sports,Yoga Mats,Cosco,2563.08,4430.0
+563,Kiprun Cricket Bats Series 209,Sports,Cricket Bats,Kiprun,1537.25,2490.0
+564,Kiprun Gym Gloves Lite 85,Sports,Gym Gloves,Kiprun,325.75,510.0
+565,Somoy Islamic Literature Select 792,Books,Islamic Literature,Somoy,282.22,390.0
+566,Anupam Self Development Max 141,Books,Self Development,Anupam,545.56,790.0
+567,Tamralipi BCS Guides Edition 823,Books,BCS Guides,Tamralipi,153.13,210.0
+568,Somoy Fiction & Novel Edition 783,Books,Fiction & Novel,Somoy,547.02,730.0
+569,Batighar Academic & Admission Series 421,Books,Academic & Admission,Batighar,711.4,1030.0
+570,Prothoma Self Development Pro 49,Books,Self Development,Prothoma,324.99,480.0
+571,Professor's Academic & Admission Edition 833,Books,Academic & Admission,Professor's,697.08,980.0
+572,Somoy Islamic Literature Select 162,Books,Islamic Literature,Somoy,490.17,720.0
+573,Somoy Self Development Plus 345,Books,Self Development,Somoy,197.47,310.0
+574,Anupam Self Development Plus 412,Books,Self Development,Anupam,614.39,920.0
+575,Professor's Self Development Lite 617,Books,Self Development,Professor's,657.74,1030.0
+576,Somoy Fiction & Novel Series 555,Books,Fiction & Novel,Somoy,494.97,770.0
+577,Professor's Islamic Literature Lite 496,Books,Islamic Literature,Professor's,498.59,750.0
+578,Anupam BCS Guides Edition 699,Books,BCS Guides,Anupam,418.96,640.0
+579,Tamralipi BCS Guides Lite 825,Books,BCS Guides,Tamralipi,159.17,250.0
+580,Guardian English Literature Pro 621,Books,English Literature,Guardian,816.38,1080.0
+581,Anupam Islamic Literature Classic 748,Books,Islamic Literature,Anupam,727.12,980.0
+582,Somoy BCS Guides Select 184,Books,BCS Guides,Somoy,236.13,360.0
+583,Professor's Self Development Prime 161,Books,Self Development,Professor's,161.37,250.0
+584,Batighar English Literature Pro 596,Books,English Literature,Batighar,682.06,990.0
+585,Prothoma English Literature Classic 29,Books,English Literature,Prothoma,129.57,180.0
+586,Anupam Islamic Literature Prime 165,Books,Islamic Literature,Anupam,398.49,640.0
+587,Professor's Islamic Literature Classic 430,Books,Islamic Literature,Professor's,477.59,660.0
+588,Guardian Self Development Select 903,Books,Self Development,Guardian,451.71,660.0
+589,Professor's English Literature Pro 732,Books,English Literature,Professor's,663.07,890.0
+590,Somoy Academic & Admission Classic 584,Books,Academic & Admission,Somoy,588.43,860.0
+591,Professor's Fiction & Novel Select 548,Books,Fiction & Novel,Professor's,925.78,1300.0
+592,Anupam Islamic Literature Plus 480,Books,Islamic Literature,Anupam,415.48,660.0
+593,Anupam Self Development Series 372,Books,Self Development,Anupam,138.33,220.0
+594,Guardian English Literature Lite 634,Books,English Literature,Guardian,555.37,740.0
+595,Batighar Islamic Literature Classic 295,Books,Islamic Literature,Batighar,218.08,330.0
+596,Anupam Self Development Classic 974,Books,Self Development,Anupam,142.48,210.0
+597,Guardian Fiction & Novel Lite 731,Books,Fiction & Novel,Guardian,249.04,370.0
+598,Professor's Academic & Admission Select 334,Books,Academic & Admission,Professor's,127.6,200.0
+599,Anupam Islamic Literature Series 966,Books,Islamic Literature,Anupam,830.39,1330.0
+600,Anupam English Literature Lite 134,Books,English Literature,Anupam,623.1,840.0
